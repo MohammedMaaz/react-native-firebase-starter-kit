@@ -1,1 +1,1 @@
-"# react-native-firebase-starter-kit" 
+# react-native-firebase-starter-kit
